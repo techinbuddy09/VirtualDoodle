@@ -30,5 +30,6 @@ Press 's' to save your art 📸. No pen needed—just your hands and creativity!
 
 1. Clone the repository:  
    ```bash
-   git clone https:/techinbuddy09/github.com//VirtualDoodle.git
-   cd VirtualDoodle
+   git clone https://github.com/techinbuddy09/VirtualDoodle.git
+cd VirtualDoodle
+
