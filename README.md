@@ -32,7 +32,7 @@ A webcam-powered drawing app controlled entirely by hand gestures! Draw, erase, 
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/gesture-drawing-app.git
+git clone https://github.com/techinbuddy09/gesture-drawing-app.git
 cd gesture-drawing-app
 ```
 
