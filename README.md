@@ -1,4 +1,4 @@
-# 🎨 Gesture-Based Drawing App
+# 🎨 Virtual Doodle
 
 A webcam-powered drawing app controlled entirely by hand gestures! Draw, erase, change colors, resize brushes, and clear the canvas — all with your fingers in front of your webcam.
 
